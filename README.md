@@ -47,6 +47,8 @@
 
 ###
 
+<br clear="both">
+
 <img src="https://raw.githubusercontent.com/Leozerbib/Leozerbib/output/snake.svg" alt="Snake animation" />
 
 ###
