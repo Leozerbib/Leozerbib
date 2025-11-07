@@ -51,12 +51,6 @@
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/Leozerbib/Leozerbib/output/snake.svg" alt="Snake animation" />
-
-###
-
 <img align="right" height="300" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3NHpwbXI3NnhvYzZqenZjZW01dzBxcmp2NDY3eTBsNG1sNWEzMWNuMCZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/RIpj8HJGVGGTUdM76b/giphy.gif"  />
 
 ###
