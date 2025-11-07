@@ -1,16 +1,27 @@
-## Hi there 👋
+👋 Hey there! I’m Leo Zerbib — a passionate 🦾 fullstack developer from Paris 🇫🇷.
 
-<!--
-**Leozerbib/Leozerbib** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 I graduated with a Master’s in Computer Science from ISEP (2022–2025), after smashing through two years of maths & physics prep.
+👨‍💻 I spent two years working at Ariane Group, building, debugging, and learning something new every day.
 
-Here are some ideas to get you started:
+🛠️ Tech I'm great at:
+  🌐 JavaScript / TypeScript
+  ⚛️ React & Next.js
+  🐍 Python
+  ☕ Java & Spring Boot
+  🐘 PostgreSQL
+  🐳 Docker
+  🐧 Linux
+  ⚡ NestJS, Supabase, GCP, Proxmox
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔢 Built cool things:
+  📱 SpotMap: A mobile app mapping the world around you
+  🤖 Gile: AI-powered project management
+  🛰️ 3D satellite FPV simulator
+  🚤 Autonomous waste-collection boat
+  🧪 Sensor-based lie detector + web app
+  🏡 Self-hosted cloud server (Proxmox/Docker)
+
+✨ I love challenges, creative solutions, and building things that work.
+🌱 Always learning — let’s connect, code, and create!
+
+🌍 portfolio.bibz-lab.fr
